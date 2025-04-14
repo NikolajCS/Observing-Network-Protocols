@@ -166,3 +166,6 @@ The diagram below basically illustrates the setup and objective of this tutorial
 
 This concludes the tutorial. You have now observed traffic from common protocols and experimented with blocking traffic using Network Security Groups. It’s a great way to get a feel for how networking works in Azure and how tools like Wireshark can help you see what’s going on behind the scenes. I hope you learned something new! 
 
+
+
+
